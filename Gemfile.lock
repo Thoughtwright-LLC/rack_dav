@@ -3,7 +3,7 @@ PATH
   specs:
     rack_dav (0.3.1)
       nokogiri
-      rack (>= 1.4.0)
+      rack (>= 1.1.0)
 
 GEM
   remote: http://rubygems.org/
@@ -11,7 +11,7 @@ GEM
     diff-lcs (1.2.1)
     nokogiri (1.5.8)
     nokogiri (1.5.8-java)
-    rack (1.5.2)
+    rack (1.1.6)
     rake (10.0.3)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
