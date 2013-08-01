@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'require_relative'
 require 'time'
 require 'uri'
 require 'rexml/document'
